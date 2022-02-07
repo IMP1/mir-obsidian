@@ -1,0 +1,10 @@
+# Medicine
+
+## Diseases
+
+
+## Disabilities
+[[???]]
+
+## Healthcare
+

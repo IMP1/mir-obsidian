@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "d10185362ca09151",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd220e799453cbd2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "locations/Bradcombe.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb653273f27a7149",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7dac321364beec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1116a94c2815bca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b3895606670fb64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "port",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "256d940f6a6a1293",
+    "type": "split",
+    "children": [
+      {
+        "id": "05933d44b6c74661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9c8139f5b741c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "locations/Bradcombe.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "cd220e799453cbd2",
+  "lastOpenFiles": [
+    "locations/Bradcombe.md",
+    "locations/Roke.md",
+    "locations/Berrywood.md",
+    "events/War for Ridgeback.md",
+    "flora/Horien.md",
+    "flora/Greycap.md",
+    "flora/Frostberry.md",
+    "flora/Axbane.md",
+    "organisations/Royal Magicians Guild.md",
+    "organisations/Sailing Ships.md"
+  ]
+}
