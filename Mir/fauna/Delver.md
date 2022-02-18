@@ -44,5 +44,7 @@ Given devlers' lack of privacy, or perhaps feeding into it, the tunnel systems h
 
 Delver tunnel systems also have play spaces and classrooms, rooms for storage and food processing, workshops and forges, as well as spaces for growing what few plants will grow underground, or farming subterranean animals.
 
+%% https://www.reddit.com/r/DnDBehindTheScreen/comments/s2eyge/dwarven_agriculture/ %%
+
 ## External Dealings
 Some cave systems will trade with other caves, as well as the other people across Mir.

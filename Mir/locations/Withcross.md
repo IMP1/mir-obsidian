@@ -1,5 +1,5 @@
 # Withcross
-#location/ridgeback/wetlands/withford #location-size/town
+#location/ridgeback/wetlands/withcross #location-size/town
 
 ## Overview
 Withcross is a town at a crossing of [[With River|The River With]] in the region of the [[Wetlands]].

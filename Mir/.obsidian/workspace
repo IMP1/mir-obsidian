@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "locations/Bradcombe.md",
+            "file": "fauna/Goathawk.md",
             "mode": "source"
           }
         }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "port",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "locations/Bradcombe.md",
+                "file": "fauna/Goathawk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cd220e799453cbd2",
   "lastOpenFiles": [
-    "locations/Bradcombe.md",
-    "locations/Roke.md",
-    "locations/Berrywood.md",
-    "events/War for Ridgeback.md",
-    "flora/Horien.md",
-    "flora/Greycap.md",
-    "flora/Frostberry.md",
-    "flora/Axbane.md",
-    "organisations/Royal Magicians Guild.md",
-    "organisations/Sailing Ships.md"
+    "fauna/Goathawk.md",
+    "fauna/Winklouse.md",
+    "fauna/Colour Weaver.md",
+    "locations/Northwaite.md",
+    "locations/Ridgeback.md",
+    "locations/Rifford.md",
+    "locations/Withcross.md",
+    "locations/Witmouth.md",
+    "locations/With River.md",
+    "locations/Winwick.md"
   ]
 }
