@@ -5,6 +5,10 @@ Plainswalkers live mostly on the world's surface. They have little competition f
 
 Many plainswalkers are nomadic, and travel in large insular groups. A few have managed to settle down and integrate well into other cultures.
 
+## Anatomy
+%% How tall? %%
+Plainswalkers have slightly webbed hands.
+
 ## Life Cycle & Health
 Plainswalkers live for an average of 130 years *(roughly 50 Earth-years)*,
 assuming they make it out of childhood and into their 40s *(roughly 15)*.
