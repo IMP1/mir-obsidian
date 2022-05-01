@@ -1,7 +1,7 @@
 # Berrywood
 #location/ridgeback/estearth/berrywood #location-size/village
 
-## Overview
+## The Village
 The village of Berrywood is small, and its people are inward-looking. They have little dealings with outsiders and so have little trust for unknown faces.
 
 It is located in a valley by the wood, also called Berrywood. Streams run through the forest and form a river running down the hill. The village is nestled in a bend in the river. The occasional traveller will approach from the west, and will usually cross the river a short was into the forest, in a small clearing where the river is lower. This clearing is known as **Summerford Grove**, and people from the village will walk to the grove for spiritual festivals.
@@ -15,7 +15,11 @@ The wood mostly comprises [[???]] and [[???]] trees. The lower layers contain an
 
 The wood offers other food in the form of [[Yarrow|yarrow root]], ...
 
-Various animals are also native to the wood. [[Badger|Badgers]], [[Bat|bats]], [[Boar|boars]], [[Owl|owls]], ...
+Various animals are also native to the wood. [[Badger|Badgers]], [[Bat|bats]], [[Boar|boars]], [[Owl|owls]], [[Lark|larks]], [[Truorn|truorns], ]...
 
-## Customs
+## Community
 The members of Berrywood meet in the moothall every full moon for a communal feast.
+
+Most other days, they will eat their evening meals with each other in the moothall, or in small groups in people's houses. The moothall also has sleeping arrangements, with large bunks that people will sleep on together.
+
+Decisions affecting the whole village are made together, with certain elders bringing their wisdom and often affect the decision greatly. The current elders of Berrywood are [[Yarrow]] and [[Dallós]]
