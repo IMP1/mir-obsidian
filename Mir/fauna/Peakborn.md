@@ -1,4 +1,5 @@
 # Peakborn
+#fauna/sapient 
 
 ## Overview
 Peakborn mostly live high in mountains. They struggle with high oxygen content and so don't tend to go down to the lowlands. Peakborn have no sense of smell, but can hear a large range of frequencies, including very low pitches. 

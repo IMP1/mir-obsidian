@@ -1,4 +1,5 @@
 # Laarl
+#fauna/reptile 
 
 ## Overview
 Laarl are small reptillian omnivores. They are often found in caves, and often move into abandoned underground structures, enjoying the damp.

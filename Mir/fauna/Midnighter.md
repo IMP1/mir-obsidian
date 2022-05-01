@@ -3,6 +3,7 @@ aliases: [Midnighter, Gédemos]
 ---
 
 # Midnighter
+#fauna/sapient 
 
 ## Overview
 Midnighters refer to themselves as **Gédemos**, which translates to Groundfolk. This is in contrast to the Gods, who they believe are 'Skyfolk', needing no land (which represents the Magical or Physical planes).

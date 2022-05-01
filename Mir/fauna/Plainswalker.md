@@ -1,4 +1,5 @@
 # Plainswalker
+#fauna/sapient 
 
 ## Overview
 Plainswalkers live mostly on the world's surface. They have little competition for the colder and hotter regions, and are more tolerant to extreme temperatures, and so live there in higher numbers. They have spread somewhat throughout Mir, but fail to integrate well and so often form their own insular communities.

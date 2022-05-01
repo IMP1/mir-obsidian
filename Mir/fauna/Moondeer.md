@@ -1,4 +1,5 @@
 # Moondeer
+#fauna/mammal
 
 ## Overview
 Moondeer are a reclusive woodland animal. It is said that its antlers have powerful magical properties. It is also said that the moondeer only shows itself to those it deems worthy. 

@@ -1,4 +1,5 @@
 # Oginsten
+#fauna/mammal 
 
 ## Overview
 The oginsten is a small land-based quadraped. 

@@ -1,4 +1,5 @@
 # Delver
+#fauna/sapient 
 
 ## Overview
 Many delvers spend most of their lives underground. Those who venture above ground either prefer darker regions or tend to live nocturnally. This is because, while they prefer the heat, delvers cannot handle the sunlight, as their skin is very succeptible to sun damage. They also struggle to see in high light levels, but can see very well in low light. Delvers also have a sensitivity to electrical charge in and between objects. 

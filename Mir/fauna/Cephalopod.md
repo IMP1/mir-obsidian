@@ -1,4 +1,5 @@
 # Cephalopod
+#fauna/marine #fauna/sapient
 
 ## Overview
 Cephalopods live underwater in small nomadic groups. They communicate using bioluminescense.

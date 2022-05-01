@@ -3,6 +3,7 @@ aliases: [Winklouse, Blink Bug]
 ---
 
 # Winklouse
+#fauna/insect 
 
 ## Overview
 Winklice, also known as **Blink Bugs**, are large round insects, about a foot long and half that wide. They look similar to an armadillo crossed with a woodlouse.

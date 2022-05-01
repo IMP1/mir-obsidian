@@ -1,4 +1,5 @@
 # Osa
+#fauna/mammal 
 
 ## Overview
 The osa is a thick-set herbivore, with sturdy legs and a strong back. They are used to pull carts and/or carry wares or equipment. 
