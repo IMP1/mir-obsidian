@@ -6,4 +6,4 @@ Little Seaton is a small settlement at the foot of [[Hackle|The Hackle]] on the 
 
 ## Behind the Scenes
 ### Name Etymology
-Coming from *Little Seat Town*, as it would be a place of rest for travellers crossing the Hackle.
+Coming from *Little Seat Town*, as it would be a place of rest for travellers crossing the Hackle at [[Thorgrund Pass]]
