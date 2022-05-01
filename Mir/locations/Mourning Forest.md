@@ -3,7 +3,7 @@ aliases: [Mourning Forest, Morning Forest]
 ---
 
 # Mourning Forest
-#location/ridgeback/estearth
+#location/ridgeback/estearth #location-size/forest
 
 ***Morning Forest** also redirects here.*
 
