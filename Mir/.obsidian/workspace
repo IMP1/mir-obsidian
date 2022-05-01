@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "fauna/Goathawk.md",
+            "file": "stories/Spreading Darkness/encounters.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "fauna/Goathawk.md",
+                "file": "stories/Spreading Darkness/encounters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cd220e799453cbd2",
   "lastOpenFiles": [
-    "fauna/Goathawk.md",
-    "fauna/Winklouse.md",
-    "fauna/Colour Weaver.md",
-    "locations/Northwaite.md",
-    "locations/Ridgeback.md",
-    "locations/Rifford.md",
-    "locations/Withcross.md",
-    "locations/Witmouth.md",
-    "locations/With River.md",
-    "locations/Winwick.md"
+    "stories/Spreading Darkness/encounters.md",
+    "stories/Spreading Darkness/Spreading Darkness.md",
+    "characters/Isolde.md",
+    "locations/Culwick.md",
+    "locations/Ashport.md",
+    "locations/Abisai (Island).md",
+    "characters/Bramble Hawk.md",
+    "characters/Kari.md",
+    "stories/Side Quests.md",
+    "Mir.md"
   ]
 }
