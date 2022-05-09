@@ -7,7 +7,9 @@ Many delvers spend most of their lives underground. Those who venture above grou
 Delvers have very insensitive senses of smell. They can pick out specific smells, such as those that would portend danger deep underground, but other than this, they need a smell to be very strong before they realise it. As such, they can tolerate most foodstuffs, and enjoy very strong-smelling foods.
 
 Delvers can hear with the hairs on their skin. These hairs reacts to pressure variations in the air around it, and their brain can interpret these variations as sound. Sometimes these sounds go straight to their central nervous system, and they will instinctively react to the sounds with no brain processing. This is most often found during cave collapses. 
-This also means delvers have no ears. 
+This also means delvers have no external ears. 
+
+
 
 ## Diet
 Delvers would often eat whatever found could be found underground. This would mostly consist of mushrooms and other, smaller, subterranean animals. These include bats, worms, [[Skolatsi|skolatsi]], and sometimes larger cave animals such as bears. Delvers can use their electrical sensitivty to see skolatsi in the darkness.
@@ -20,6 +22,8 @@ Delvers typically grow to heights between 1.2m (4') and 1.5m (5'). This is parti
 %% PROPORTIONS, WEIGHT, MUSCLE_MASS %%
 
 Heights don't significantly differ across the sexes, and young delvers all look very similar, but female adults have larger hips and legs. This generally makes them faster runners but slower crawlers. Male adults generally develop larger arms and shoulders.
+
+Delvers have slightly webbed hand, which are often hard with callouses.
 
 ## Life Cycle & Health
 Delvers live for an average of 100 years *(roughly 40 Earth-years)*. The shortness is mostly due to a lack of nutritional intake in their early years, and some delvers who have left their underground lives find themselves living longer.
@@ -37,6 +41,13 @@ Delvers have no expectations of privacy. They have incredible hearing and their 
 Delvers typically belong to a cave-system group. As such, they have little need to dig, and so only the more traditional, or esoteric characters tend to still dig as a primary mode of getting around underground.
 
 ## Tunnels
+Early Delver tunnels were dug by hand, and so followed unpredictable layouts, following the more easily dug earth underground. Later on, tools were used, which allowed for more expansive tunnel systems.
+
+%% 
+How did the original tunnel systems effect society? 
+How did that persist through the change to using tools? 
+%%
+
 Almost all delver tunnel systems follow similar patterns. The main entrance tunnel will shortly turn towards running east to west, or north to south, depending on the hill or mountain's position and orientation. There will also be numerous other entrances and exits for access to nearby resources or land, as well as simple escape routes in event of emergencies. 
 
 The main tunnel will have drainage chutes which lead beneath the tunnel system to a large reserviour of water, and a further drainage system in case of flooding. Tunnels branching off the main tunnel will angle upwards for both channelling any water towards the drains, and for any necessary defence against attacks.

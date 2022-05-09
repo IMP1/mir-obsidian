@@ -8,7 +8,6 @@ Many plainswalkers are nomadic, and travel in large insular groups. A few have m
 
 ## Anatomy
 %% How tall? %%
-Plainswalkers have slightly webbed hands.
 
 ## Life Cycle & Health
 Plainswalkers live for an average of 130 years *(roughly 50 Earth-years)*,
