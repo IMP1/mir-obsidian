@@ -6,7 +6,7 @@ Race | Sex | Born
 Midnighter | Male | ????
 
 ## Overview
-Dallós lives in [[Berrywood]]. He is an elder and, along with [[Yarrow]], helps make any decisions for Berrywood.
+Dallós lives in [[Berrywood]]. He is an elder and, along with [[Yarrow (Person)]], helps make any decisions for Berrywood.
 
 ## Behind the Scenes
 ### Name Etymology

@@ -1,6 +1,8 @@
 # Yarrow
 #character/female #character/plainswalker 
 
+*For Yarrow, the Plant, see [[Yarrow (Plant)]].*
+
 Race | Sex | Born
 -----|-----|-----
 Plainswalker | Female | ????
