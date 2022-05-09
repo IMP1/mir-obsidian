@@ -3,9 +3,9 @@
 ## Days
 Almost all creatures and people recognise the time it takes from the sunrise to the next sunrise, and are affected by this cycle.
 
-Across Ridgeback, most people split the day into three parts. **Morning** is from dawn to midday, **Afternoon** is from midday to dusk, and **Night** is from dusk to dawn. The advantage of this system is that it requires no time-keeping devices, and the transitions between the phases are apparent to all.
+Across Ridgeback, most people split the day into three parts. **Sunrise** is from dawn to the sun's peak, **Sunfall** is from sunpeak to dusk, and **Night** is from dusk to dawn. The advantage of this system is that it requires no time-keeping devices, and the transitions between the phases are apparent to all.
 
-This also results in 6 points of the day, at (roughly) the midpoints of each of these phases, and their transitions. We have **Dawn**, **Midmorn**, **Noon**, **Midaft**, **Dusk**, and **Midnight**.
+This also results in 6 points of the day, at (roughly) the midpoints of each of these phases, and their transitions. We have **Dawn**, **Midrise**, **Sunpeak**, **Midfall**, **Dusk**, and **Midnight**.
 
 %%
 Larger towns and cities uses some kind of time-keeping devices, and sounds out at periods throughout the day.
