@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "stories/Spreading Darkness/encounters.md",
+            "file": "languages/Hohrintoh/Hohrintoh.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stories/Spreading Darkness/encounters.md",
+                "file": "languages/Hohrintoh/Hohrintoh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "cd220e799453cbd2",
   "lastOpenFiles": [
-    "stories/Spreading Darkness/encounters.md",
-    "stories/Spreading Darkness/Spreading Darkness.md",
-    "characters/Isolde.md",
-    "locations/Culwick.md",
-    "locations/Ashport.md",
-    "locations/Abisai (Island).md",
-    "characters/Bramble Hawk.md",
-    "characters/Kari.md",
-    "stories/Side Quests.md",
-    "Mir.md"
+    "languages/Hohrintoh/Hohrintoh.md",
+    "languages/Hohrintoh/Vocab.md",
+    "languages/Hohrintoh/Script.md",
+    "culture/Proverbs.md",
+    "culture/Professions.md",
+    "culture/Music.md",
+    "culture/Medicine.md",
+    "culture/Magic.md",
+    "culture/Games.md",
+    "culture/Food.md"
   ]
 }
