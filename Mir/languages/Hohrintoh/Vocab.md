@@ -2,7 +2,7 @@
 
 %% Say something about some vocab %%
 
-
+%% https://blacksmithgu.github.io/obsidian-dataview/query/queries/ %%
 
 Word | Script | POS | Meaning | Verb Parameters
 -----|--------|-----|---------|----------------
@@ -20,8 +20,8 @@ Hoh-ohmbar | ᛛᛄᚦᚻᚹᚴ | Noun | A parent or carer
 Rohmanbar | ᛋᛄᚻᚶᚱᚹᚴ | Verb | To bed (down)
 Deh-rohmanbar | ᛐᛓᛋᛄᚻᚶᚱᚹᚴ | Noun | A bed; A hearth
 Alohmbar | ᚶᛉᛄᚻᚹᚴ | Verb | To be warmed | (*unto*) thing-being-warmed
-Arkohmar | ? | Verb | To light a fire; to make somewhere cosy | (*with*) person-making-fire, (*at*) space-being-made-into-fire, (*from*) tinder / bedding
-Deh-arkohmar | ? | Noun | Flint
+Arkohmar | ᚴᚳᛄᚻᚴ | Verb | To light a fire; to make somewhere cosy | (*with*) person-making-fire, (*at*) space-being-made-into-fire, (*from*) tinder / bedding
+Deh-arkohmar | ᛐᛓᚴᚳᛄᚻᚴ | Noun | Flint
 Arkeroh | ᚴᚳᛓᛋᛄ | Verb | To burn | (*with*) Fuel
 Deh-arkeroh | ? | Noun | A fire
 Hoh-arkeroh | ? | Noun | Fuel; An impure or unprocessed thing
@@ -61,10 +61,29 @@ Tsili | ? | Adjective | Brazen
 Hoh-tsilar | ? | Noun | A source of electric current
 Atsila | ? | Adjective | Electric
 Ratsilar | ? | Verb | To conduct electricity | (*through*) conductor, (*from*) source, (*unto*) target
-#TBC/language/vocab | ? | Verb | To see | #TBC/language/vocab 
-#TBC/language/vocab | ? | Verb | To surround | #TBC/language/vocab
-#TBC/language/vocab | ? | Verb | To be within | #TBC/language/vocab**
-#TBC/language/vocab | ? | Verb | To be outside | #TBC/language/vocab
+
+%%
+To Add:
+  * To see
+  * To surround
+  * To be within
+  * To be outside
+  * To feel
+  * Big
+  * Small
+  * Not
+  * Me
+  * You
+  * To find
+  * To hear
+  * To eat
+  * To kill
+  * To die
+  * To give
+  * To hold
+  * 
+
+%%
 
 %%
 https://docs.google.com/spreadsheets/d/1LddpkzdKYUItu-4JOfdE7-KmEMD0ymzqTHpXHBYJpj8/edit#gid=0
