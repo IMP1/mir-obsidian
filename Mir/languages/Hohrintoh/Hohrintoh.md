@@ -59,8 +59,8 @@ Hohrintoh Tenses
 4 = Present perfect (I have sung)
 5 = Past perfect (I had sung)
 6 = Future perfect (I will have sung)
-7 = Present simple (I sing /a spider makes webs / babies drink milk)
-8 = Present simple (I sing / the sun rises each morning / I sing at the tavern on tuesdays)
+7 = Present simple (I sing /a spider makes webs / babies drink milk) SAME AS 1.
+8 = Present simple (I sing / the sun rises each morning / I sing at the tavern on tuesdays) SAME AS 1.
 
 %%
 
@@ -77,6 +77,6 @@ Past continuous | -ado | -odo | I was singing
 Future continuous | -ar | -oh | I will be singing
 Present perfect | -av | -od | I have sung
 Past perfect | -adav | -odod | I had sung
-Future perfect | -arav | -onod | I will have sung
-General-Timeless | -ara | -ono | Birds sing
+Future perfect | -ara | -ono | I will have sung
+General-Timeless | -ar | -oh | Birds sing
 Habitual-Routine | -ar | -oh | I sing at the tavern every tuesday
