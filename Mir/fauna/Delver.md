@@ -16,6 +16,10 @@ Delvers would often eat whatever found could be found underground. This would mo
 
 Some Delvers will also be used to eating semi-cultivated plants from outside their cave. Some cave systems even have pastures outside the cave and animals that some delvers will tend.
 
+Delver cave systems usually collect water from both surface sources such as rivers or rainfall, as well as underground lakes. 
+
+They would commonly add salt, small iron shavings, and various herbs, which originated as attmpted purification, as well as to give stronger taste.
+
 ## Physique
 Delvers typically grow to heights between 1.2m (4') and 1.5m (5'). This is partially due to a lack of nutritional intake in their infancy, and delvers raised in other conditions can reach heights of 1.7m (5' 7"). The bodies of delvers are relatviely streamlined which aids their digging. They have no ears and their noses don't protrude much.
             
@@ -48,7 +52,7 @@ How did the original tunnel systems effect society?
 How did that persist through the change to using tools? 
 %%
 
-Almost all delver tunnel systems follow similar patterns. The main entrance tunnel will shortly turn towards running east to west, or north to south, depending on the hill or mountain's position and orientation. There will also be numerous other entrances and exits for access to nearby resources or land, as well as simple escape routes in event of emergencies. 
+Almost all modern (post-tool-use) delver tunnel systems follow similar patterns. The main entrance tunnel will shortly turn towards running east to west, or north to south, depending on the hill or mountain's position and orientation. There will also be numerous other entrances and exits for access to nearby resources or land, as well as simple escape routes in event of emergencies. 
 
 The main tunnel will have drainage chutes which lead beneath the tunnel system to a large reserviour of water, and a further drainage system in case of flooding. Tunnels branching off the main tunnel will angle upwards for both channelling any water towards the drains, and for any necessary defence against attacks.
 
