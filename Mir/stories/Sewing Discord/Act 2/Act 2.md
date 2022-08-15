@@ -6,7 +6,7 @@
 
 *Small stones underfoot, rotting flesh, waves crashing against the shore*
 
-The party is beached at [[Dawnstar Bay]]. [[Salome Hornehill|Salome]]'s advisor whips up some healing poultices from nearby herbs. The survivors resolve any remaining issues and set off along the road towards the nearest town. There may be bandits on the road.
+The party is beached at [[Dawnstar Bay]]. [[Bramble Hawk|Bramble]] whips up some healing poultices from nearby herbs. The survivors resolve any remaining issues and set off along the road towards the nearest town. There may be bandits on the road.
 
 ## Scene 2: Civilisation
 
