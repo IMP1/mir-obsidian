@@ -19,7 +19,12 @@ Do flutes have limited notes they can play?
 Think about whether this could be incorporated?  
 [https://www.reddit.com/r/worldbuilding/comments/szg05j/three_types_of_mana_anomalies_in_the_universe/](https://www.reddit.com/r/worldbuilding/comments/szg05j/three_types_of_mana_anomalies_in_the_universe/)
 
-Add disabilities and diseases that people have.  
+Add disabilities that people have.  
 Some can be magical  
+
+Add diseases and illnesses people get.
+Some can be magical
   
 Add professions and think up some notable NPCs belonging to those professions who might be players in the world (or parts of it)
+
+How do (some) animals regulate their temperature? Is this a level of detail I want to incorporate?
