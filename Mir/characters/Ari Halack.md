@@ -1,9 +1,16 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+---
+
 # Lord Ari Halack
 #character/male #character/plainswalker #family/halack #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born`
 
 ![[sigil_halack.png]]
 

@@ -1,9 +1,17 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: 1 L 21
+  died: 138 W 3
+---
+
 # King Pala Redwing
 #character/male #character/plainswalker #family/redwing #profession/noble
 
 Race | Sex | Born | Died
 -----|-----|------|-----
-Plainswalker | Male | 1 L 21 | 138 W 3
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_redwing.png]]
 

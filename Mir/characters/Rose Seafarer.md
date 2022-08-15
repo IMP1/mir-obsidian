@@ -22,10 +22,10 @@ Navigator & Doctor: [[???]]
 Carpenter: [[???]]
 Cook: [[???]]
 
-Master's Prentice & Sailor: [[???]] (also a sailor)
-Deckson's Prentice & Rigger: [[Drys]]]] (also a rigger)
-Navigator's Prentice & Sailor: [[???]] (also a sailor)
-Carpenter's Prentice & Rigger: [[???]] (also a rigger)
+Master's Prentice & Sailor: [[???]]
+Deckson's Prentice & Rigger: [[Drys]]
+Navigator's Prentice & Sailor: [[???]]
+Carpenter's Prentice & Rigger: [[???]]
 
 8 other riggers, and 11 other sailors.
 

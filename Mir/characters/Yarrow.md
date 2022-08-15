@@ -1,7 +1,11 @@
+---
+aliases: [Yarrow, Yarrow (Person)]
+---
+
 # Yarrow
 #character/female #character/plainswalker 
 
-*For Yarrow, the Plant, see [[Yarrow (Plant)]].*
+*For Yarrow, the Plant, see [[flora/Yarrow|Yarrow (Plant)]].*
 
 Race | Sex | Born
 -----|-----|-----
