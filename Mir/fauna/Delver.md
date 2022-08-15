@@ -9,8 +9,6 @@ Delvers have very insensitive senses of smell. They can pick out specific smells
 Delvers can hear with the hairs on their skin. These hairs reacts to pressure variations in the air around it, and their brain can interpret these variations as sound. Sometimes these sounds go straight to their central nervous system, and they will instinctively react to the sounds with no brain processing. This is most often found during cave collapses. 
 This also means delvers have no external ears. 
 
-
-
 ## Diet
 Delvers would often eat whatever found could be found underground. This would mostly consist of mushrooms and other, smaller, subterranean animals. These include bats, worms, [[Skolatsi|skolatsi]], and sometimes larger cave animals such as bears. Delvers can use their electrical sensitivty to see skolatsi in the darkness.
 
