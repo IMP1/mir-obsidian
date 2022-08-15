@@ -20,9 +20,9 @@ The west has these regions, from north to south:
 
 The east has these regions, from north to south:
   - [[Frosthelm]]
-  - [[Kingsooth (Region)]]
+  - [[Kingsooth (Region)|Kingsooth]]
   - [[Estearth]]
-  - [[Ashvale (Region)]]
+  - [[Ashvale (Region)|Ashvale]]
   - [[Wetlands]]
   - [[Sand Flats]]
 

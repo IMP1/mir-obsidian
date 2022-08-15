@@ -13,7 +13,7 @@ The village keeps goats for milk, and for their meat and hides. People forage fr
 ## The Wood
 The wood mostly comprises [[???]] and [[???]] trees. The lower layers contain an abundance of [[Frostberry|frostberries]], hence the name. The residents of Berrywood ferment these berries into wine, which cools down the drinker slightly, which is refreshing in the summer months, but can also be useful to help with medical procedures.
 
-The wood offers other food in the form of [[Yarrow (Plant)|yarrow root]], ...
+The wood offers other food in the form of [[flora/Yarrow|yarrow root]], ...
 
 Various animals are also native to the wood. [[Badger|Badgers]], [[Bat|bats]], [[Boar|boars]], [[Owl|owls]], [[Lark|larks]], [[Truorn|truorns], ]...
 
@@ -22,4 +22,4 @@ The members of Berrywood meet in the moothall every full moon for a communal fea
 
 Most other days, they will eat their evening meals with each other in the moothall, or in small groups in people's houses. The moothall also has sleeping arrangements, with large bunks that people will sleep on together.
 
-Decisions affecting the whole village are made together, with certain elders bringing their wisdom and often affect the decision greatly. The current elders of Berrywood are [[Yarrow (Person)]] and [[Dallós]]
+Decisions affecting the whole village are made together, with certain elders bringing their wisdom and often affect the decision greatly. The current elders of Berrywood are [[characters/Yarrow]] and [[Dallós]]
