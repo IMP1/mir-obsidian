@@ -1,3 +1,7 @@
+---
+aliases: [Frostberry]
+---
+
 # Frostberry
 
 ## Overview
