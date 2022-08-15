@@ -6,8 +6,8 @@
 
 Word | Script | POS | Meaning | Verb Parameters
 -----|--------|-----|---------|----------------
-Ennar | ? | Aux | At (place)
-Enni | ? | Aux | At (time)
+Ennar | ᛓᚱᚴ | Aux | At (place)
+Enni | ᛓᚱᚲ | Aux | At (time)
 ? | ? | Aux | Before (time)
 ? | ? | Aux | With
 Ab | ? | Aux | From
@@ -15,8 +15,9 @@ Mi | ? | Aux | Unto
 ? | ? | Aux | Whither (direction)
 ? | ? | Aux | Through
 ? | ? | Aux | About
-Orin | ? | Noun | Me/I (from speaker)
-? | ? | Noun | They/them (singular); He/she/her/him
+Orin | ᛜᛋᚲᚱ | Noun | Me/I (from speaker)
+Deiv | ᛐᛓᚲᛇ | Noun | They/them (singular); He/she/her/him
+Karin | ? | Noun | You (from listener)
 Ohmbar | ᚦᚻᚹᚴ | Verb | To warm | (*with*) Fuel
 Deh-ohmbar | ᛐᛓᚦᚻᚹᚴ | Noun | A fire
 Hoh-ohmbar | ᛛᛄᚦᚻᚹᚴ | Noun | A parent or carer
@@ -39,6 +40,7 @@ Hoh-rintoh | ? | Noun | A tongue; An inspiration
 Arinleroh | ? | Verb | To converse | (*with*) person-conversing
 Rikarindoh | ? | Verb | To listen | (*with*) listener, (*from*) sound-source
 Ararintoh | ? | Verb | To get someone's attention | (*with*) attention-seeker, (*from*) potential-attention-provider
+??? | ? | Verb | To hear | ???
 Suvlar | ? | Verb | To live | (*??*) living-thing
 Deh-suvlar | ? | Noun | A living thing
 Deh-suivolar | ? | Noun | A lifetime
@@ -83,21 +85,23 @@ Barovar | ? | Verb | To flow | (*through*) medium, (*unto*) receptacle
 Deh-Barovar | ? | Noun | A river
 Imbaroval | ? | Noun | A gulley; A channel
 Dambar | ? | Noun | Water
+??? | ? | Verb | To look
+??? | ? | Verb | To see
+??? | ? | Verb | To enjoy
+??? | ? | Verb | To touch
+??? | ? | Verb | To feel
+??? | ? | Verb | To arrange
+??? | ? | Adverb | In a specific manner or arrangement; Particularly
 
 
 %%
 To Add:
-  * To see
   * To surround
   * To be within
   * To be outside
-  * To feel
-  * To discover/find/learn
   * Big
   * Small
   * Not
-  * Me
-  * You
   * To find
   * To hear
   * To kill

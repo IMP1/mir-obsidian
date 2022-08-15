@@ -80,3 +80,7 @@ Past perfect | -adav | -odod | I had sung
 Future perfect | -ara | -ono | I will have sung
 General-Timeless | -ar | -oh | Birds sing
 Habitual-Routine | -ar | -oh | I sing at the tavern every tuesday
+ | | |
+ 
+ 
+
