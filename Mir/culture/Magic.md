@@ -25,7 +25,7 @@ Some races are more highly tuned to the magical energies, but all are potential 
  - [[Darkfly|Darkflies]] spread darkness and dull the senses of creatures around them.
  - [[Winklouse|Winklice]] will flash between the planes to escape predators.
  - [[Garwigar|Garwigars]] will fire magically-imbued missiles of excess heat at their prey.
- - [[Truorn|Truorns]] will find their prey through magical finding and have no sight, smell or hearing.
+ - [[fauna/Truorn|Truorns]] will find their prey through magical finding and have no sight, smell or hearing.
 
 ## Magically-Imbued Plants
  - [[Frostberry|Frostberries]] can freeze and give ice burns to those that eat them.
