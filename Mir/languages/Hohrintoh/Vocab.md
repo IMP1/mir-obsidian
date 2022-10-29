@@ -9,12 +9,14 @@ Word | Script | POS | Meaning | Verb Parameters
 Ennar | ᛓᚱᚴ | Aux | At (place)
 Enni | ᛓᚱᚲ | Aux | At (time)
 ? | ? | Aux | Before (time)
+? | ? | Aux | After (time)
 ? | ? | Aux | With
 Ab | ? | Aux | From
 Mi | ? | Aux | Unto
 ? | ? | Aux | Whither (direction)
 ? | ? | Aux | Through
 ? | ? | Aux | About
+? | ? | Aux | (And) then
 Orin | ᛜᛋᚲᚱ | Noun | Me/I (from speaker)
 Deiv | ᛐᛓᚲᛇ | Noun | They/them (singular); He/she/her/him
 Karin | ? | Noun | You (from listener)
@@ -55,11 +57,11 @@ Halaroh | ? | Verb | To go | (*??*) mover, (*whither*) location/direction/destin
 Deh-halaroh | ? | Noun | A journey; Movement
 Anhalaroh | ? | Verb | To prepare | (*before*) thing-preparing-for, (*from*) thing-preparing, (*with*) preparations
 Skoroh | ? | Verb | To dig | ??? #TBC/language/vocab
-Deh-skoroh | ? | Noun | A hole
+Deh-skoroh | ? | Noun | A tunnel
 Hoh-skoroh | ? | Noun | A hand; A shovel or pickaxe
 Skolatsi | ? | Noun | A [[Skolatsi\|skolatsi]]
 Reskola | ? | Noun | Soil
-Okaskoroh | ? | Verb | To fill in (a hole or gap) | ??? #TBC/language/vocab
+Okaskoroh | ? | Verb | To fill in (a hole or gap) | (*unto*) hole, (*from*) plug
 Tsilar | ? | Verb | To electrify | (*from*) source, (*unto*) target
 Deh-tsilar | ? | Noun | A spark; An uncontrolled outburst (usually regretted)
 Tsili | ? | Adjective | Brazen
@@ -92,6 +94,8 @@ Dambar | ? | Noun | Water
 ??? | ? | Verb | To feel
 ??? | ? | Verb | To arrange
 ??? | ? | Adverb | In a specific manner or arrangement; Particularly
+??? | ? | Verb | To seek
+??? | ? | Verb | To find
 
 
 %%
@@ -99,10 +103,10 @@ To Add:
   * To surround
   * To be within
   * To be outside
+  * To grow
   * Big
   * Small
   * Not
-  * To find
   * To hear
   * To kill
   * To die
