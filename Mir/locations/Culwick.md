@@ -1,5 +1,5 @@
 # Culwick
-#location/ridgeback/hilland/coldwood #location-size/town
+#location/abisai/culwick #location-size/town
 
 ## Overview
 Culwick is the main port town of [[Abisai (Island)]], and the nearest port on the island pair, [[The Sisters]] to [[Ridgeback]].

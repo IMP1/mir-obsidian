@@ -1,5 +1,5 @@
 # Meanwood
-#location/ridgeback #location-size/forest
+#location/ridgeback/estearth/meanwood #location-size/forest
 
 ## Overview
 Meanwood is a large wooded expanse of land across [[Ashvale (Region)]] and [[Estearth]].

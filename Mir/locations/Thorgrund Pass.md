@@ -2,7 +2,7 @@
 #location/ridgeback
 
 ## Overview
-Thorgrund pass is a small section of [[Hackle|The Hackle]] where crossing the mountain range is easier, especially for heavily laden beasts of burden. It is up from [[Little Seaton]] on the western side, and [[???]] #TBC on the eastern side.
+Thorgrund pass is a small section of [[Hackle|The Hackle]] where crossing the mountain range is easier, especially for heavily laden beasts of burden. It is up from [[Little Seaton]] on the western side, and the road on the eastern side leads to [[Rifford]].
 
 ## Behind the Scenes
 ### Name Etymology

@@ -1,7 +1,7 @@
 # Nosine (Island)
-#location/ridgeback/ashvale/ashvale #location-size/city
+#location/sisters/nosine #location-size/island
 
-*For Nosine, the god of the Sissakoor religion, see [[Sissakoor#Nosine]].*
+*For Nosine, the god of the Sissakoor religion, see [[Sissakoor#Nosine|Nosine (God)]].*
 
 ## Overview
 Nosine is the northern isle of [[The Sisters]]. Its 'sister' island is [[Abisai (Island)|Abisai]].
