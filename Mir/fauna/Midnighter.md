@@ -28,6 +28,9 @@ As well as different types of trees, some midnighters may find energy sources in
 
 Very occasionally a midnighter will find themselves to be a source of magical energy. In these cases, the midnighter will never run out, as the energies from [[Magic#The Abyss|the Abyss]] are being channelled into them directly. This can result in distress and insanity in all but the most powerful (or fortunate) midnighters.
 
+## Societies
+Midnighters can be quite inward-looking, and priorities bodily autonomy. They tend to like time alone or in small groups.
+
 ## Physique
 %%
 HEIGHT, PROPORTIONS, WEIGHT, MUSCLE MASS, SEX DIFFERENCES
@@ -50,3 +53,14 @@ Often, children will have different sources to their parents. Sometimes this wil
 
 ## Language
 The Mightnighter language is similar to real-world Greek.
+
+## Notable Midnighters
+
+  - [[Drys]]
+  - [[Jayson Hornehill]]
+  - [[Salome Hornehill]]
+  - [[Dallós]]
+  - [[Krikor Aóme]]
+  - [[Rissar]]
+  - [[Isolde]]
+  - 

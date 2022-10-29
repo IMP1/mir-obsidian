@@ -2,6 +2,8 @@
 #fauna/sapient 
 
 ## Overview
+Delvers refer to themselves as **???** #TBC/language, which translates to ???. 
+
 Many delvers spend most of their lives underground. Those who venture above ground either prefer darker regions or tend to live nocturnally. This is because, while they prefer the heat, delvers cannot handle the sunlight, as their skin is very succeptible to sun damage. They also struggle to see in high light levels, but can see very well in low light. Delvers also have a sensitivity to electrical charge in and between objects. 
 
 Delvers have very insensitive senses of smell. They can pick out specific smells, such as those that would portend danger deep underground, but other than this, they need a smell to be very strong before they realise it. As such, they can tolerate most foodstuffs, and enjoy very strong-smelling foods.
@@ -20,7 +22,7 @@ They would commonly add salt, small iron shavings, and various herbs, which orig
 
 ## Physique
 Delvers typically grow to heights between 1.2m (4') and 1.5m (5'). This is partially due to a lack of nutritional intake in their infancy, and delvers raised in other conditions can reach heights of 1.7m (5' 7"). The bodies of delvers are relatviely streamlined which aids their digging. They have no ears and their noses don't protrude much.
-            
+
 %% PROPORTIONS, WEIGHT, MUSCLE_MASS %%
 
 Heights don't significantly differ across the sexes, and young delvers all look very similar, but female adults have larger hips and legs. This generally makes them faster runners but slower crawlers. Male adults generally develop larger arms and shoulders.
@@ -36,11 +38,17 @@ Living underground, Delvers have fallen out of sync with the [[Calendar#Days|day
 ## Societies
 Delvers have no expectations of privacy. They have incredible hearing and their tunnels by necessity have few-to-no blockages such as doors.
 
+Because they hear through their skin, they will normally not wear clothes, especially when around only other Delvers, and so have no taboos regarding nudity, being comfortable being naked.
+
 ### Games
+#### Skoroh ??  (Tunnel and Find)
+
 %% Game like hide-and-seek, but the delver that's 'it' has to cover themself with a woven branch/vine thing with dried leaves to cover their skin and rustle about so they can't hear. then the other delvers will dig around and the person who's 'it' has to find them. it's called something like my-tunnel your-tunnel, except its name will be Hohrintoh, obvs. %%
 
 ### Civilisation
 Delvers typically belong to a cave-system group. As such, they have little need to dig, and so only the more traditional, or esoteric characters tend to still dig as a primary mode of getting around underground.
+
+They work with tools, and their smiths will wear protective clothing to protect them from the heat and the sounds.
 
 ## Tunnels
 Early Delver tunnels were dug by hand, and so followed unpredictable layouts, following the more easily dug earth underground. Later on, tools were used, which allowed for more expansive tunnel systems.
@@ -62,3 +70,11 @@ Delver tunnel systems also have play spaces and classrooms, rooms for storage an
 
 ## External Dealings
 Some cave systems will trade with other caves, as well as the other people across Mir.
+
+Sometimes Delvers will leave the caves, and choose to live above ground. When this happens they tend to live mostly nocturnally, and will sleep during the day to protect their skin. They will also take up the habit of wearing clothes around other peoples to satisfy their taboos surrounding nudity. This would mean their hearing is worsened, so they often balance those needs, wearing as little as possible while still not offending anyone.
+
+## Notable Delvers
+
+  - [[Deark]]
+  - [[Koro Eodis]]
+  - [[Kari]]
