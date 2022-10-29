@@ -2,8 +2,6 @@
 
 ## Notes
 
-An insect that is biologically immortal, just keeps going back into a cucoon and coming out as a new flying insect moth thing.
-
 Hohrintoh word for cake is result-of-baking. And there's some conjoining word like 'of' or '-like' to make something like a chocolate cake or a rice cake.
 
 Hohrintoh: Give the verbs some kind of genres. Maybe transitive and intransitive, or active/passive. It can be the -ar Vs -oh thing. And there can be exceptions because it's meant to be naturalistic
@@ -28,3 +26,4 @@ Some can be magical
 Add professions and think up some notable NPCs belonging to those professions who might be players in the world (or parts of it)
 
 How do (some) animals regulate their temperature? Is this a level of detail I want to incorporate?
+[https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/a/animal-temperature-regulation-strategies#:~:text=Many%20animals%20regulate%20their%20body,shivering%20and%20non%2Dshivering%20thermogenesis.](https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/a/animal-temperature-regulation-strategies#:~:text=Many%20animals%20regulate%20their%20body,shivering%20and%20non%2Dshivering%20thermogenesis.)
