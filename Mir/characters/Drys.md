@@ -1,9 +1,16 @@
- # Drys
+---
+stats:
+  race: Midnighter
+  sex: Female
+  born: ????
+---
+
+# Drys
 #character/female #character/midnighter #profession/sailor
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Female | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 Drys was born in [[???]], a seaside village. Her father was a fisherman, and when he was gone she longed to join him out at sea.

@@ -1,9 +1,17 @@
+---
+stats:
+  race: Midnighter
+  sex: Female
+  born: ????
+  died: ????
+---
+
 # Dread Pirate Isolde
 #character/female #character/midnighter #profession/pirate
 
 Race | Sex | Born | Died
 -----|-----|------|------
-Midnighter | Female | ???? | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 

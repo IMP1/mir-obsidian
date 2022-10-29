@@ -1,12 +1,20 @@
+---
+stats:
+  race: Midnighter
+  sex: Male
+  born: ????
+  died: ????
+---
+
 # Robinson
 #character/male #character/midnighter 
 
 Race | Sex | Born | Died
 -----|-----|------|-----
-Midnighter | Male | ???? | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
-??? #TBC/name was a traveller. He would provide magical gifts and services in exchange for bed and board.
+Robinson was a traveller. He would provide magical gifts and services in exchange for bed and board.
 
 He learnt many martial techniques and was a formiddable unarmed warrior.
 

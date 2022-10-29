@@ -1,9 +1,17 @@
+---
+stats:
+  race: Plainswalker
+  sex: Female
+  born: ????
+  died: ????
+---
+
 # Rook
 #character/female #character/plainswalker #profession/mage
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Female | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 Rook is a member of the [[Royal Magicians Guild]], and is based in [[Rifford]].

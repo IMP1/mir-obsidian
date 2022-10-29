@@ -1,9 +1,17 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+  died: ????
+---
+
 # Captain Rose Seafarer
 #character/male #character/plainswalker #profession/sailor/captain
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 A gruff man, and a weathered sea captain, Rose has always felt a sense of peace at sea that he has yet to find anywhere on land. As a big strong child he is used to being listened to and being heard. He tries to be fair but doesn't often listen to people unless he trusts them and has seen evidence of their wisdom.

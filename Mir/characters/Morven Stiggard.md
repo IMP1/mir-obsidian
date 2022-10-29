@@ -1,9 +1,16 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+---
+
 # Morven Stiggard
 #character/male #character/plainswalker  #family/stiggard #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_stiggard.png]]
 

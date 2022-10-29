@@ -1,9 +1,16 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+---
+
 # Gale Westshore
 #character/male #character/plainswalker #family/westshore #profession/noble #profession/spy
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_westshore.png]]
 

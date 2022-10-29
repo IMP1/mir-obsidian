@@ -1,9 +1,16 @@
+---
+stats:
+  race: Midnighter
+  sex: Male
+  born: ????
+---
+
 # Hawk
 #character/male #character/midnighter
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 Everyone's heard of Hawk, but not everyone knows his real name is Sparrow. He felt his little name didn't fit with what he saw as his big personality. 

@@ -1,9 +1,17 @@
+---
+stats:
+  race: Midnighter
+  sex: Female
+  born: ????
+  died: ????
+---
+
 # Lady Salome Hornehill
 #character/female #character/midnighter #family/hornehill #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Female | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_hornehill.png]]
 

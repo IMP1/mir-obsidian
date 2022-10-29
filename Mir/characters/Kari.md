@@ -1,9 +1,17 @@
+---
+stats:
+  race: Delver
+  sex: Female
+  born: ????
+  died: ????
+---
+
 # Kari
 #character/female #character/delver
 
 Race | Sex | Born | Died
 -----|-----|------|------
-Delver | Female | ???? | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 Kari is a local hero, from the small village of [[Westwaite]].

@@ -1,9 +1,16 @@
+---
+stats:
+  race: Plainswalker
+  sex: Female
+  born: ????
+---
+
 # Lady Pashja Westshore
 #character/female #character/plainswalker #family/westshore #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Female | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_westshore.png]]
 

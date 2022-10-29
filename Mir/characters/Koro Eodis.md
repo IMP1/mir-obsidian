@@ -1,9 +1,16 @@
+---
+stats:
+  race: Delver
+  sex: Male
+  born: ????
+---
+
 # Lord Koro Eodis
 #character/male #character/delver #family/eodus #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Delver | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_eodis.png]]
 

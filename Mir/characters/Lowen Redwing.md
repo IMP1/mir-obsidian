@@ -1,9 +1,17 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: 58 F 34
+  died: ???? #TBC/date 
+---
+
 # King Lowen Redwing
 #character/male #character/plainswalker #family/redwing #profession/noble
 
 Race | Sex | Born | Died
 -----|-----|------|-----
-Plainswalker | Male | 58 F 34 | #TBC/date 
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_redwing.png]]
 

@@ -1,9 +1,16 @@
+---
+stats:
+  race: Midnighter
+  sex: Male
+  born: ????
+---
+
 # Lord Boreas Wells
 #character/male #character/midnighter #family/wells #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_wells.png]]
 

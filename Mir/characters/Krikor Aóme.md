@@ -1,9 +1,16 @@
+---
+stats:
+  race: Midnighter
+  sex: Male
+  born: ????
+---
+
 # Lord Krikor Aóme
 #character/male #character/midnighter #family/aome #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_aome.png]]
 

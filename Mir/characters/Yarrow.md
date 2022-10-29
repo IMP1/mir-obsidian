@@ -1,5 +1,10 @@
 ---
 aliases: [Yarrow, Yarrow (Person)]
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+  died: ????
 ---
 
 # Yarrow
@@ -9,7 +14,7 @@ aliases: [Yarrow, Yarrow (Person)]
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Female | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ## Overview
 Yarrow lives in [[Berrywood]] and has done since she was born. She is held in high regard there, and oversees any large decisions made regarding the village.

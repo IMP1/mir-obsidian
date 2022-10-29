@@ -1,9 +1,16 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+---
+
 # Lord Brandon Horlay
 #character/male #character/plainswalker #family/horlay #profession/noble 
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_horlay.png]]
 

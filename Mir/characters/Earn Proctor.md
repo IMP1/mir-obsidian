@@ -1,9 +1,17 @@
+---
+stats:
+  race: Plainswalker
+  sex: Male
+  born: ????
+  died: ????
+---
+
 # Lord Earn Proctor
 #character/male #character/plainswalker #family/proctor #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Plainswalker | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_proctor.png]]
 

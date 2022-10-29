@@ -1,9 +1,16 @@
+---
+stats:
+  race: Midnighter
+  sex: Male
+  born: ????
+---
+
 # Lord Jayson Hornehill
 #character/male #character/midnighter #family/hornehill #profession/noble
 
 Race | Sex | Born
 -----|-----|-----
-Midnighter | Male | ????
+`= this.stats.race` | `= this.stats.sex` | `= this.stats.born` | `= this.stats.died`
 
 ![[sigil_hornehill.png]]
 
