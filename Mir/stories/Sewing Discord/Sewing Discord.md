@@ -13,9 +13,11 @@ A big ship battle happens and combat is explored. The NPCs can help as much as t
 
 ### [[Act 2]]
 The world opens up slightly. More exploration of the wider plot and learning about Salome.
+
 Players get to Berrywood and there some side quests and more NPC interaction that can potentially go badly.
 
 ### [[Act 3]]
 The wider problems and larger plot is slightly revealed and there are hints of larger goings-on and bigger problems that beset the continent. The party are attacked and thrown in with one side of the developing war.
 
 ### [[Act 4]]
+

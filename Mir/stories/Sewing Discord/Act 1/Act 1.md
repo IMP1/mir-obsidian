@@ -20,6 +20,7 @@ Also on board is the [[Truth Stone]]. It's being accompanied by [[Rissar]], the 
 
 The crew is mutinous. They have been at sea for too long and, led by Drys, they are taking control of the ship. Players can take the side of the captain (and Salome et al.) and a small contingent of loyal crew, or the side of Drys the revolting crew. They can then either rescue Salome or take them captive. The storm throws the ship into the rocks. The crew intends to land at Dawnstar Bay and restock from nearby settlements before sailing into the capital.
 
+### If the party does nothing
 ### If the party sides with the crew in battle
 ### If the party sides with the captain in battle
 ### If the party talks down the agressors

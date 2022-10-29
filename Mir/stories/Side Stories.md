@@ -1,4 +1,4 @@
-# Side Quests
+# Side Stories
 
 ## Ancient Depths
 https://www.reddit.com/r/DnDBehindTheScreen/comments/e25d44/the_fools_riddlethe_red_herring_door_a_simple/
