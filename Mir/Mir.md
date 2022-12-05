@@ -27,3 +27,16 @@ Add professions and think up some notable NPCs belonging to those professions wh
 
 How do (some) animals regulate their temperature? Is this a level of detail I want to incorporate?
 [https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/a/animal-temperature-regulation-strategies#:~:text=Many%20animals%20regulate%20their%20body,shivering%20and%20non%2Dshivering%20thermogenesis.](https://www.khanacademy.org/science/ap-biology/ecology-ap/energy-flow-through-ecosystems/a/animal-temperature-regulation-strategies#:~:text=Many%20animals%20regulate%20their%20body,shivering%20and%20non%2Dshivering%20thermogenesis.)
+
+## Magic
+Mir's Magic system is currently *very* loose. These notes are to try and give it a bit of structure. Currently there has been no effort made to make any of these ideas consistent and all are subject to change.
+
+### Feared but Useful
+Some people can use magic to affect the world. These people are very few and far between, and they are feared by almost everyone else. They are, however, very powerful. Which people see as useful. In [[Ridgeback]], there is a [[Royal Magicians Guild|Guild of Magicians]] who are approved by the King, and who perform royal duties.
+
+### Equal Exchange?
+Magic can't cool stuff down without raising the temperature of something else (a bit like a fridge). [[Frostberry|Frostberry Plants]] warm the soil around and beneath them to create the cooling effect in their berries. Because the berries are small and concentrated cold-ness, the larger area doesn't need to be warmed to such a degree. In winter this makes patches around the plants where the snow melts, which draws attention to the plants. It also encourages animals seekingt the warmth to the plant who will then eat the berries and distribute the seeds.
+
+### Physical Limitations
+Magic can't send information faster than the speed of light.
+Using magic requires physical exertion from the user, like using muscles. So magicians are often in good physical health.

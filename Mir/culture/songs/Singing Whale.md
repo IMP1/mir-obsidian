@@ -1,5 +1,7 @@
 # Singing Whale
 
+See [[Whale Song]].
+
 ## Lyrics
 Once there sailed a ship
 The finest ever were

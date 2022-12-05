@@ -3,5 +3,6 @@
   "attachmentFolderPath": "images",
   "promptDelete": false,
   "foldHeading": true,
-  "foldIndent": true
+  "foldIndent": true,
+  "livePreview": false
 }

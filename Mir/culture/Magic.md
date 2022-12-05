@@ -14,20 +14,18 @@ Occasionally some spirit will attach itself to a physical person, either when th
 Occassionally rifts between the planes will emerge, and energies and matter can travel freely in either direction.
 
 ## Magic Users
-Some people can use magic to affect the world. These people are very few and far between, and they are feared by almost everyone else.
-
-They are, however, very powerful. Which people see as useful. In [[Ridgeback]], there is a [[Royal Magicians Guild|Guild of Magicians]] who are approved by the King, and who perform royal duties.
+Some people can use magic to affect the world. These people are very few and far between, and they are feared by almost everyone else. They are, however, very powerful. Which people see as useful. In [[Ridgeback]], there is a [[Royal Magicians Guild|Guild of Magicians]] who are approved by the King, and who perform royal duties.
 
 Some races are more highly tuned to the magical energies, but all are potential hosts. 
 [[Midnighter|Midnighters]] are the most highly tuned of the sapient animals of Mir, but some more wild animals have more affinity to the Abyss.
 
-## Magically-Imbued Animals
+### Magically-Imbued Animals
  - [[Darkfly|Darkflies]] spread darkness and dull the senses of creatures around them.
  - [[Winklouse|Winklice]] will flash between the planes to escape predators.
  - [[Garwigar|Garwigars]] will fire magically-imbued missiles of excess heat at their prey.
  - [[fauna/Truorn|Truorns]] will find their prey through magical finding and have no sight, smell or hearing.
 
-## Magically-Imbued Plants
+### Magically-Imbued Plants
  - [[Frostberry|Frostberries]] can freeze and give ice burns to those that eat them.
  - [[Greycap|Greycaps]] can give those who eat them glimpes into the Abyss.
  - [[Horien|Horien Trees]] give creatures around them increased speed.

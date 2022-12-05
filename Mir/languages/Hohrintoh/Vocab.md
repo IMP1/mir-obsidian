@@ -104,6 +104,13 @@ To Add:
   * To be within
   * To be outside
   * To grow
+  * To rise
+  * Up (to do with rising)
+  * To Fall
+  * Down (to do with falling)
+  * To eat
+  * To teach
+  * Friend
   * Big
   * Small
   * Not
@@ -112,6 +119,12 @@ To Add:
   * To die
   * To give
   * To hold
+  * To smell
+  * To feel
+  * To beget/birth
+  * Animal
+  * Person
+  * 
   * 
 
 %%

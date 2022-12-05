@@ -51,3 +51,6 @@ The party regroups and discusses what they've learned:
 Mysterious people attacking mages. Organised group. Some, but not all, from Coldwood.
 All plainswalkers. Aúlos's mentor says they will investigate around Coldwood and magically.
 They send Aúlos and party down to Little Seaton to investigate where the bandits came from (East or South)
+
+### Chapter 3
+

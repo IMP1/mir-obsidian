@@ -81,6 +81,16 @@ Future perfect | -ara | -ono | I will have sung
 General-Timeless | -ar | -oh | Birds sing
 Habitual-Routine | -ar | -oh | I sing at the tavern every tuesday
  | | |
- 
- 
 
+## Punctuation
+
+## Tense
+
+%%
+
+I like in spanish the upside down exclamation mark to know you're starting to read a question.
+
+How are questions formed? An inflection? A different word order? An auxilliary word?
+
+
+%%

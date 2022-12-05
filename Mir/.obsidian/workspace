@@ -9,8 +9,9 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "languages/Hohrintoh/Hohrintoh.md",
-            "mode": "source"
+            "file": "stories/Rising Flames/Rising Flames.md",
+            "mode": "source",
+            "source": true
           }
         }
       }
@@ -39,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "druid",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/Hohrintoh/Hohrintoh.md",
+                "file": "stories/Rising Flames/Rising Flames.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +89,15 @@
   },
   "active": "cd220e799453cbd2",
   "lastOpenFiles": [
-    "languages/Hohrintoh/Hohrintoh.md",
-    "languages/Hohrintoh/Vocab.md",
-    "languages/Hohrintoh/Script.md",
-    "culture/Proverbs.md",
-    "culture/Professions.md",
-    "culture/Music.md",
-    "culture/Medicine.md",
-    "culture/Magic.md",
-    "culture/Games.md",
-    "culture/Food.md"
+    "characters/Jayson Hornehill.md",
+    "stories/Rising Flames/Rising Flames.md",
+    "locations/Hilland.md",
+    "stories/Side Stories.md",
+    "Mir.md",
+    "stories/Sewing Discord/Sewing Discord.md",
+    "characters/Boreas Wells.md",
+    "characters/Beech Stiggard.md",
+    "characters/Ari Halack.md",
+    "characters/Flint.md"
   ]
 }
