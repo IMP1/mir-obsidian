@@ -25,11 +25,11 @@ There are a few diseases that plainswalkers are affected by that can be fatal in
 ## Notable Plainswalkers
 
   - [[Beech Stiggard]]
-  - [[Bramble Hawk]]
-  - [[Pashja Westshore]]
-  - [[Gale Westshore]]
+  - [[Brambel Hawk]]
+  - [[Pajha Westshor]]
+  - [[Gael Westshor]]
   - [[Lily Proctor]]
   - [[Pala Redwing]]
   - [[Lowen Redwing]]
   - [[Orson Carter]]
-  - [[Earn Proctor]]
+  - [[Ern Proctor]]

@@ -17,7 +17,7 @@ Drys was born in [[???]], a seaside village. Her father was a fisherman, and whe
 
 When Drys's father died, she decided to go to sea and take up his mantle.
 
-Drys found [[Rose Seafarer|Captain Seafarer]]'s crew and ship in [[???]] and she joined him, having heard of his reputation as a good captain.
+Drys found [[Roes Seafarer|Captain Seafarer]]'s crew and ship in [[???]] and she joined him, having heard of his reputation as a good captain.
 
 ## Behind the Scenes
 ### Name Etymology

@@ -6,7 +6,7 @@
 
 *Dirty streets, sweat and testosterone, shouts of fights and trading*
 
-Players arrive to the hubbub of [[Rifford]]. [[Salome Hornehill|Salome]] is excited to be back in contact with her father and let him know she's safe. [[Gale Westshore|Gale]] goes off ahead to scout out the situation.
+Players arrive to the hubbub of [[Rifford]]. [[Salome Hornehill|Salome]] is excited to be back in contact with her father and let him know she's safe. [[Gael Westshor|Gale]] goes off ahead to scout out the situation.
 
 The streets are full of all sorts of peoples. Bustling markets are making the most of the large numbers of potential customers. There are some guards around, because of the potential for commerce. They try to stop the worst of the fights, but also only weigh in when they can succeed, as a display of force.
 

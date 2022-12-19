@@ -35,11 +35,11 @@ Those with members as royalty are obvious candidates as powerful families, but t
 #### History
 
 ******
-### Westshore
-![[sigil_westshore.png]]
+### Westshor
+![[sigil_westshor.png]]
 #### Members
-  - [[Gale Westshore|Gale]]
-  - [[Pashja Westshore|Pashja]]
+  - [[Gael Westshor|Gale]]
+  - [[Pajha Westshor|Pashja]]
 
 #### History
 
@@ -84,15 +84,15 @@ Before the [[War for Ridgeback]], the Stiggards ruled the lands of [[Estearth]].
 Lords of [[Kingsooth (Region)|Kingsooth]].
 
 ******
-### Halack
-![[sigil_halack.png]]
+### Halak
+![[sigil_halak.png]]
 #### Members
-  - [[Ari Halack|Ari]]
+  - [[Ari Halak|Ari]]
 
 #### History
 Lords of [[Frosthelm]].
 
-*Name comes from Krakr -> Kalak -> Halack (meaning crow)*
+*Name comes from Krakr -> Kalak -> Halak (meaning crow)*
 
 ******
 ### Aóme

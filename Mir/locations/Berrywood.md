@@ -22,4 +22,4 @@ The members of Berrywood meet in the moothall every full moon for a communal fea
 
 Most other days, they will eat their evening meals with each other in the moothall, or in small groups in people's houses. The moothall also has sleeping arrangements, with large bunks that people will sleep on together.
 
-Decisions affecting the whole village are made together, with certain elders bringing their wisdom and often affect the decision greatly. The current elders of Berrywood are [[characters/Yarrow]] and [[Dallós]]
+Decisions affecting the whole village are made together, with certain elders bringing their wisdom and often affect the decision greatly. The current elders of Berrywood are [[Yarow]] and [[Dallós]]

@@ -15,7 +15,7 @@ Race | Sex | Born
 ![[sigil_proctor.png]]
 
 ## Overview
-Lily Proctor is the Lady of [[Hilland]], born to [[Earn Proctor]] and [[???]].
+Lily Proctor is the Lady of [[Hilland]], born to [[Ern Proctor]] and [[???]].
 
 Lily was born into a culture that believed that women should not be king. During her childhood, [[Leyla Hornehill]] was lord of [[Ashvale (Region)|Ashvale]], and Lily's family was adamant that it was a man's job to rule. They sowed seeds of doubt in Leyla Hornehill, and used the widespread uncertainty to claim some lands from 
 [[Roke]], who were allied with Ashvale.

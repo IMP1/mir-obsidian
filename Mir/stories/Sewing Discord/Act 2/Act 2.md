@@ -6,13 +6,13 @@
 
 *Small stones underfoot, rotting flesh, waves crashing against the shore*
 
-The party is beached at [[Dawnstar Bay]]. [[Bramble Hawk|Bramble]] whips up some healing poultices from nearby herbs. The survivors resolve any remaining issues and set off along the road towards the nearest town. There may be bandits on the road.
+The party is beached at [[Dawnstar Bay]]. [[Brambel Hawk|Bramble]] whips up some healing poultices from nearby herbs. The survivors resolve any remaining issues and set off along the road towards the nearest town. There may be bandits on the road.
 
 ## Scene 2: Civilisation
 
 *Wooden houses, ale and stews, hushed whispers*
 
-Players arrive at the village [[Berrywood]] along the road. The villagers are distrusting, as there are bandits around. The party attempts to persuage the village leader to give the party somewhere to sleep. If none can, [[Bramble Hawk|Bramble]] probably will be able to.
+Players arrive at the village [[Berrywood]] along the road. The villagers are distrusting, as there are bandits around. The party attempts to persuage the village leader to give the party somewhere to sleep. If none can, [[Brambel Hawk|Bramble]] probably will be able to.
 
 There is a travelling entertainment group in the village, and so the inn is full. The party is given some supplies (in exchange for food or services?) and directed to the nearest town with a royal presence.
 

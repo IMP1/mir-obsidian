@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "d10185362ca09151",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bf6041032f4410b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd220e799453cbd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Glaed.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c130f05b0b23bb95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "legends/Whale Song.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "ed48bcea35131e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "culture/songs/Singing Whale.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "b67f2eca3a742a5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "characters/Roes Seafarer.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5e3f36ddd77915fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "languages/Common/Script.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb653273f27a7149",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc7dac321364beec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1116a94c2815bca2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b3895606670fb64",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "westshore",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219
+  },
+  "right": {
+    "id": "256d940f6a6a1293",
+    "type": "split",
+    "children": [
+      {
+        "id": "05933d44b6c74661",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e9c8139f5b741c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "languages/Common/Script.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e3f36ddd77915fd",
+  "lastOpenFiles": [
+    "languages/Hohrintoh/Script.md",
+    "languages/Common/Script.md",
+    "languages/Common/Common.md",
+    "characters/Roes Seafarer.md",
+    "characters/Hawk.md",
+    "characters/Salome Hornehill.md",
+    "characters/Truorn.md",
+    "characters/Yarow.md",
+    "characters/Krikor Aóme.md",
+    "characters/Isolde.md"
+  ]
+}

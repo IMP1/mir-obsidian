@@ -38,5 +38,5 @@ Some people can use magic to affect the world. These people are very few and far
 Magic can't cool stuff down without raising the temperature of something else (a bit like a fridge). [[Frostberry|Frostberry Plants]] warm the soil around and beneath them to create the cooling effect in their berries. Because the berries are small and concentrated cold-ness, the larger area doesn't need to be warmed to such a degree. In winter this makes patches around the plants where the snow melts, which draws attention to the plants. It also encourages animals seekingt the warmth to the plant who will then eat the berries and distribute the seeds.
 
 ### Physical Limitations
-Magic can't send information faster than the speed of light.
 Using magic requires physical exertion from the user, like using muscles. So magicians are often in good physical health.
+Magic can't send information faster than the speed of light? But maybe glimpses of the future can happen? Uncontrolled? Maybe info *can* be passed faster than the speed of light?

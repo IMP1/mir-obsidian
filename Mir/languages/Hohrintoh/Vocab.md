@@ -97,6 +97,24 @@ Dambar | ? | Noun | Water
 ??? | ? | Verb | To seek
 ??? | ? | Verb | To find
 
+%%
+https://textsynth.com/playground.html
+
+Text:
+
+Below are a few words of my constructed human language ("conlang") called Hohrintoh. Can you generate additional words? 
+
+To warm Ohmbar
+To be warmed Alohmbar
+To burn Arkeroh
+To create Larkenoh
+To speak Rintoh
+To listen Rikarindoh
+To live Suvlar
+To go Halaroh
+To dig Skoroh
+To know Korhavoh
+%%
 
 %%
 To Add:
