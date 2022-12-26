@@ -31,7 +31,7 @@ Deh-arkohmar | ᛐᛓᚴᚳᛄᚻᚴ | Noun | Flint
 Arkeroh | ᚴᚳᛓᛋᛄ | Verb | To burn | (*with*) Fuel
 Deh-arkeroh | ? | Noun | A fire
 Hoh-arkeroh | ? | Noun | Fuel; An impure or unprocessed thing
-Larkenoh | ? | Verb | To forge; To create | (*with*) creator, (*from*) material, (*Unto*) creation
+Larkenoh | ? | Verb | To forge; To create | (*with*) creator, (*from*) material, (*unto*) creation
 Deh-larkenoh | ? | Noun | A forge
 Kirarkoh | ? | Verb | To be burned | (*unto*) burnee
 Deh-kirarkoh | ? | Noun | A burn (injury)

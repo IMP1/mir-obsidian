@@ -8,19 +8,20 @@ Common doesn't use certain English customs, like the 'magic E' to change vowel s
 
 ## Vowels
 
-Glyph | IPA | English Example
-------|-----|----------------
-a | /a/ | C**a**t
-e | /ɛ/ | K**e**pt
-i | ? | W**i**n
-o | /ɒ/ | S**o**ck
-u | ? | C**u**p
+Glyph | IPA | English Example | Letter Name
+------|-----|-----------------|-------------
+a | /a/ | C**a**t | Ay (like pay/bay)
+e | /ɛ/ | K**e**pt | 
+i | ? | W**i**n | 
+o | /ɒ/ | S**o**ck | 
+u | ? | C**u**p | 
+c | ? | P**u**t
 ar | /ɑ/ | C**ar**
-aa | ? | C**a**pe
-ee | ? | W**ee**n
-ii | ? | K**i**te
+ei | ? | C**a**pe
+ii | ? | W**ee**n
+ai | ? | K**i**te
 oo | ? | C**o**mb
-ou | ? | C**oo**k
+cc | ? | C**oo**k
 or | ? | **Or**
 uu | ? | M**u**se
 ie | ? | **Ye**llow
@@ -31,7 +32,7 @@ Glyph | IPA | English Example | Letter Name
 ------|-----|-----------------|-------------
 b | /b/ | **B**ath | Buh
 p | ? | **P**ath | Pee
-ch | ? | **Ch**ip | Chee
+q | ? | **Ch**ip | Chee
 t | ? | **T**ap | Tuh
 d | /d/ | **D**ough | Dee
 f | ? | **F**ish | Fuh

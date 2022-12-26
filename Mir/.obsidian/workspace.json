@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Glaed.md",
+                "file": "characters/Beech Stiggard.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "languages/Common/Script.md",
+                "file": "Mir.md",
                 "mode": "source",
                 "source": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "languages/Common/Script.md",
+                "file": "Mir.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +144,26 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "5e3f36ddd77915fd",
   "lastOpenFiles": [
-    "languages/Hohrintoh/Script.md",
-    "languages/Common/Script.md",
+    "Untitled.canvas",
+    "Mir.md",
     "languages/Common/Common.md",
-    "characters/Roes Seafarer.md",
-    "characters/Hawk.md",
-    "characters/Salome Hornehill.md",
-    "characters/Truorn.md",
-    "characters/Yarow.md",
-    "characters/Krikor Aóme.md",
-    "characters/Isolde.md"
+    "locations/Shipdel.md",
+    "locations/Proudwatch.md",
+    "locations/Roke.md",
+    "locations/Northwaite.md",
+    "locations/Little Seaton.md",
+    "locations/Hilland.md",
+    "locations/Ashvale (Region).md"
   ]
 }

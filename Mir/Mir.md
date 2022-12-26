@@ -40,3 +40,29 @@ Magic can't cool stuff down without raising the temperature of something else (a
 ### Physical Limitations
 Using magic requires physical exertion from the user, like using muscles. So magicians are often in good physical health.
 Magic can't send information faster than the speed of light? But maybe glimpses of the future can happen? Uncontrolled? Maybe info *can* be passed faster than the speed of light?
+
+### Real vs Folklore
+"Real" magic shouldn't really be called magic. Some people will consider it magic in the same way some people IRL thought things were magic that weren't. Rarely, some practitioners of magic might try to reclaim the word, but magical scholars and academics refer to their practise using metaphor, like weaving, spinning, sailing, etc. 
+The word **allworking** is also used (coming from miracle working -> mirrack allworking -> allworking).
+But also some people consider it magic, and some people consider other real things (counting, literacy) magic.
+Lots of superstition and stuff. But if magic exists, then it wouldn't be called magic then would it. So I guess things that are beyond the scope of allworking are also considered magic.
+
+## Food Webs
+
+### Polar Regions
+Garwigar lives in Arctic conditions. They shoot magical fiery missiles at their prey.    
+Typically their prey are small mammals, such as XYZ (cute Arctic mouse kinda shovelling things)  
+XYZ dig up roots of the hardier plants. Where the plants store their sugars for the snowier months.  
+  
+### The Wetlands
+Redberry trees grow in the marshy wetlands. They release their berries which float along, dispersing their seeds.  
+Some herbivorous spiders build webs to catch these berries.  
+Some froggy/toady things with long sticky tongues eat the spiders. Kinda waddley, but quick tongue.  
+Fish that resemble logs/sticks on top with a tail that grabs their prey. Like a snake, or an eel. Floats along slowly until is landed on.  
+  
+### Misc
+Truorns will chase winklice.  
+  
+### Forests
+Monopards will drop on lone Oginsten.  
+Oginsten will coordinate to take down any animal (eg deer). They can communicate animal size, direction, speed, as well as strategies to take it down. These sounds are often 'hidden' within other sounds. Bit like a swarm animal but with sound rather than pheromones.
