@@ -1,0 +1,163 @@
+{
+  "addToDefaultIfMissing": true,
+  "calendars": [
+    {
+      "name": "Palan Age",
+      "description": null,
+      "static": {
+        "firstWeekDay": 0,
+        "overflow": false,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Market Day",
+            "id": "ID_fa0af8e86a88"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 2",
+            "id": "ID_ab38caaafbb9"
+          },
+          {
+            "type": "day",
+            "name": "Weekday 3",
+            "id": "ID_7bcbcbfb088b"
+          },
+          {
+            "type": "day",
+            "name": "Picking Day",
+            "id": "ID_5b4a9b2bb82a"
+          }
+        ],
+        "months": [
+          {
+            "name": "Feallen",
+            "type": "month",
+            "length": 44,
+            "id": "ID_db1acb28faab"
+          },
+          {
+            "name": "Wentruth",
+            "type": "month",
+            "length": 44,
+            "id": "ID_e82be81b485b"
+          },
+          {
+            "name": "Lenen",
+            "type": "month",
+            "length": 44,
+            "id": "ID_9908db7a58b8"
+          },
+          {
+            "name": "Sun's Height",
+            "type": "intercalary",
+            "length": 2,
+            "id": "ID_ab9859a939b9"
+          }
+        ],
+        "moons": [
+          {
+            "name": "Moon",
+            "cycle": 9.333,
+            "offset": 3,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_9bca190ba978"
+          }
+        ],
+        "leapDays": [
+          {
+            "name": "Sun Day",
+            "type": "leapday",
+            "interval": [
+              {
+                "ignore": false,
+                "exclusive": false,
+                "interval": 8
+              }
+            ],
+            "timespan": 3,
+            "intercalary": false,
+            "numbered": true,
+            "after": 0,
+            "offset": 1,
+            "id": "ID_293b5a081a39"
+          }
+        ],
+        "eras": [],
+        "displayMoons": true,
+        "incrementDay": false,
+        "displayDayNumber": false
+      },
+      "current": {
+        "year": 1,
+        "day": 1,
+        "month": 0
+      },
+      "events": [
+        {
+          "name": "Birth: Pala Redwing",
+          "description": null,
+          "date": {
+            "day": 21,
+            "month": 0,
+            "year": 1
+          },
+          "id": "ID_080b7b8a0bf8",
+          "note": "characters/Pala Redwing",
+          "category": null
+        },
+        {
+          "name": "Deaht: Pala Redwing",
+          "description": null,
+          "date": {
+            "day": 3,
+            "month": 1,
+            "year": 138
+          },
+          "id": "ID_7b1bcab9982a",
+          "note": "characters/Pala Redwing",
+          "category": null
+        }
+      ],
+      "id": "ID_c8b9da9b0889",
+      "categories": [
+        {
+          "name": "Birth",
+          "id": "birth",
+          "color": "#000000"
+        },
+        {
+          "name": "Death",
+          "id": "death",
+          "color": "#000000"
+        }
+      ]
+    }
+  ],
+  "configDirectory": null,
+  "currentCalendar": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_c8b9da9b0889",
+  "eventPreview": false,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "settingsToggleState": {
+    "calendars": true,
+    "events": false,
+    "advanced": true
+  },
+  "showIntercalary": true,
+  "version": {
+    "major": null,
+    "minor": null,
+    "patch": null
+  },
+  "debug": false
+}
