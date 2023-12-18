@@ -16,7 +16,7 @@ Race | Sex | Born
 ![[sigil_proctor.png]]
 
 ## Overview
-Ern was the lord of [[Hilland]] during the [[War for Ridgeback]].
+Ern was the lord of [[Hiland]] during the [[War for Rijbak]].
 
 ## Behind the Scenes
 ### Name Etymology

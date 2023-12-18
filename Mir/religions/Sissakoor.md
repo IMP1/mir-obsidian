@@ -1,7 +1,7 @@
 # Sissakoor
 
 ## Overview
-Sissakoor is a polytheistic religion. It originates from [[Kardkore]] and [[The Sisters]]. It first reached [[Ridgeback]] from The Sisters, hence its name in common.
+Sissakoor is a polytheistic religion. It originates from [[Kardkore]] and [[The Sisters]]. It first reached [[Rijbak]] from The Sisters, hence its name in common.
 
 The gods are seen as similar to birds, but also having [[Midnighter]] characteristics. Midnighters struggle to see differences in species of similar levels and types of intelligence, and so it is unclear what exactly the gods resemble.
 

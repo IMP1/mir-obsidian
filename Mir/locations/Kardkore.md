@@ -2,7 +2,7 @@
 #location/kardkore #location-size/continent
 
 ## Overview
-Kardkore is a tropical continent on the equator of Mir. It is west of [[Elosammos]].
+Kardkore is a tropical continent on the equator of Mir. It is west of [[Elosamos]].
 
 ## Behind the Scenes
 ### Name Etymology

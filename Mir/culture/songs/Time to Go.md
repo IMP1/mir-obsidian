@@ -1,5 +1,5 @@
 # Time To Go
-This song was tradtionally sung at the end of long voyages, where the sailors could air their complaints with little risk of repercussions. To sing this song earlier at sea was tantamount to, and often a sign of, mutiny.
+This song was traditionally sung at the end of long voyages, where the sailors could air their complaints with little risk of repercussions. To sing this song earlier at sea was tantamount to, and often a sign of, mutiny.
 
 ## Lyrics
 With a pull and heave

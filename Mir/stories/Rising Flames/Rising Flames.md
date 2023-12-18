@@ -2,24 +2,24 @@
 
 ## Backstory
 
-Behind the scenes, the [[Sentinels]] in [[Coldwood]] are mostly just being racist against [[Midnighter|midnighters]]. But they have members who are part of the rebellion seeking to take control of [[Ridgeback]]. 
+Behind the scenes, the [[Sentinels]] in [[Koldwcd]] are mostly just being racist against [[Midnighter|midnighters]]. But they have members who are part of the rebellion seeking to take control of [[Rijbak]]. 
 The rebellion's plan is to simultaneously hit key targets. 
 
   * To take Coldwood and stop the supply of weapons to the royal forces.
   * To destroy or convert members of the [[Royal Magicians Guild]]. 
-  * To assassinate the King ([[Leyla Hornehill]]) and her family.
-  * To kill the lords of [[Roke]], who are open allies to the [[Family#Hornehill|Hornehills]].
+  * To assassinate the King ([[Leyla Hornhil]]) and her family.
+  * To kill the lords of [[Rook]], who are open allies to the [[Family#Hornehill|Hornehills]].
 
 Set during Leyla Hornehill's reign.
-Ends with [[Lily Proctor|Lily Proctor's]] uncle #TBC/character being beaten in combat, and Coldwood's sentinel influence being removed.
-And Lily Proctor's father being made lord of [[Hilland]].
+Ends with [[Lilii Proktor|Lily Proctor's]] uncle #TBC/character being beaten in combat, and Coldwood's sentinel influence being removed.
+And Lily Proctor's father being made lord of [[Hiland]].
 
 ## Characters
 
 [[Aúlos]], a midnighter magician in Coldwood who is attacked by members of the Sentinels.
-[[Alder]], a plainswalker spearman in the [[Bradcombe]] City Guard, who is recruited into the developing war.
+[[Alder]], a plainswalker spearman in the [[Bradcoom]] City Guard, who is recruited into the developing war.
 [[Vikos]], Aúlos's teacher.
-[[Emmer]], a hunter from Coldwood.
+[[Emer]], a hunter from Coldwood.
 
 ## Plot
 

@@ -1,8 +1,8 @@
 # Frosthelm
-#location/ridgeback/frosthelm #location-size/region
+#location/rijbak/frosthelm #location-size/region
 
 ## Overview
-Frosthelm is the northern-most region of [[Ridgeback]]. It lies on the eastern side, to the north of [[Kingsooth (Region)|Kingsooth]] and [[Estearth]]. It is sparsely populated due to its cold conditions.
+Frosthelm is the northern-most region of [[Rijbak]]. It lies on the eastern side, to the north of [[Kingsccth (Region)|Kingsooth]] and [[Esterth]]. It is sparsely populated due to its cold conditions.
 
 It is ruled by [[Ari Halak|Ari Halak]].
 

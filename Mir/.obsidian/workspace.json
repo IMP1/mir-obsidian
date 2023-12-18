@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd220e799453cbd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/Beech Stiggard.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c130f05b0b23bb95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "legends/Whale Song.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ed48bcea35131e58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "culture/songs/Singing Whale.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "b67f2eca3a742a5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/Roes Seafarer.md",
+                "file": "flora/Yaroo.md",
                 "mode": "source",
                 "source": true
               }
@@ -61,26 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mir.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "8a23e854a888c996",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "events/War for Ridgeback.md",
+                "file": "languages/Common/Script.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,13 +60,21 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "westshore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "b750fbcfb762f399",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ]
@@ -138,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "events/War for Ridgeback.md",
+                "file": "flora/Yaroo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,8 +116,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,17 +134,43 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8a23e854a888c996",
+  "active": "b67f2eca3a742a5b",
   "lastOpenFiles": [
-    "characters/Pala Redwing.md",
-    "events/War for Ridgeback.md",
-    "characters/Aúlos.md",
-    "characters/Ari Halak.md",
-    "legends/Whale Song.md",
-    "legends/Truth Stone.md",
-    "stories/Rising Flames/Rising Flames.md",
-    "Untitled.canvas",
+    "characters/Yaroo.md",
+    "languages/Common/Script.md",
+    "characters/Dris.md",
+    "locations/Dornstar Bei.md",
+    "characters/Dornstar.md",
+    "characters/Leyla Hornhil.md",
     "Mir.md",
-    "languages/Common/Common.md"
+    "locations/Widh River.md",
+    "events/War for Rijbak.md",
+    "organisations/Sentinels.md",
+    "organisations/Royal Magicians Guild.md",
+    "characters/Roes Siifarer.md",
+    "locations/Rijbak.md",
+    "locations/Pracdwoq.md",
+    "characters/Pazha Westshor.md",
+    "locations/Morning Forest.md",
+    "locations/Kingsccth (River).md",
+    "characters/Gael Westshor.md",
+    "locations/Esterth.md",
+    "characters/Ern Proctor.md",
+    "culture/Calendar.md",
+    "locations/Witmacth.md",
+    "locations/Winik.md",
+    "locations/Widhkros.md",
+    "locations/Wetlands.md",
+    "locations/Westweit.md",
+    "images/sigil_aome.png",
+    "images/sigil_eodis.png",
+    "images/sigil_halak.png",
+    "images/sigil_horlay.png",
+    "images/sigil_hornehill.png",
+    "images/sigil_magician_guild.png",
+    "images/sigil_pirate.png",
+    "images/sigil_northwaite.png",
+    "images/sigil_proctor.png",
+    "images/sigil_redwing.png"
   ]
 }

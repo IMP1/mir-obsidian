@@ -16,14 +16,14 @@ Race | Sex | Born | Died
 ![[sigil_redwing.png]]
 
 ## Overview
-Pala Redwing was born in [[Bradcombe]], the capital of [[Roke]], but spent most of his childhood in [[Winwick]], in [[Sand Flats]], living with the lords there, until returning to Bradcombe to become king.
+Pala Redwing was born in [[Bradcoom]], the capital of [[Rook]], but spent most of his childhood in [[Winik]], in [[Sand Flats]], living with the lords there, until returning to Bradcombe to become king.
 
 As a child in Winwick, Pala was exposed to many believers of the [[Clarity]] faith, and absorbed a fascination with the natural world, and a general distrust of mages and magic.
 
 Pala lived a long life, stepping down from his royal duties when they became too demanding and encouraged his son, [[Lowen Redwing|Lowen]] to step up and take the crown.
 
 ## Royalty
-Pala became king of [[Ridgeback]] when his father died at the age of 108, in the year 53.
+Pala became king of [[Rijbak]] when his father died at the age of 108, in the year 53.
 
 %%
 Family: Had Lowen, presumably had a wife? 

@@ -15,7 +15,7 @@ Race | Sex | Born
 ![[sigil_eodis.png]]
 
 ## Overview
-Lord of [[Kingsooth (Region)|Kingsooth]].
+Lord of [[Kingsccth (Region)|Kingsooth]].
 
 ## Behind the Scenes
 ### Name Etymology

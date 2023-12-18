@@ -1,7 +1,7 @@
 # Clarity
 
 ## Overview
-Clarity is a religion found mostly in southern [[Ridgeback]], particularly [[Sand Flats|the Sand Flats]].
+Clarity is a religion found mostly in southern [[Rijbak]], particularly [[Sand Flats|the Sand Flats]].
 
 Clarity's goal is to find the truth offered by the material world.
 It rejects the powers that originate in [[Magic#The Abyss|the Abyss]] and those who use those powers.

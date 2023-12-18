@@ -56,11 +56,11 @@ The Mightnighter language is similar to real-world Greek.
 
 ## Notable Midnighters
 
-  - [[Drys]]
-  - [[Jayson Hornehill]]
-  - [[Salome Hornehill]]
+  - [[Dris]]
+  - [[Jayson Hornhil]]
+  - [[Salomei Hornhil]]
   - [[Dallós]]
   - [[Krikor Aóme]]
-  - [[Rissar]]
+  - [[Risar]]
   - [[Isolde]]
   - 

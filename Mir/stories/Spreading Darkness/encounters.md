@@ -1,6 +1,6 @@
 # Encounters
 ## Not Unscathed
-[[Kari]], a self-acclaimed hero from the nearby small village [[Westwaite]], managed to escape the forest and is shaken from what she saw there.
+[[Kari]], a self-acclaimed hero from the nearby small village [[Westweit]], managed to escape the forest and is shaken from what she saw there.
 
 Her intent is to recover her wits and feel safe again.
 Her approach is to not think about the horrors she saw (her fellow hero devoured by the darkness) and heard (their screams as they were consumed).

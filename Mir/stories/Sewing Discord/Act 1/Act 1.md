@@ -6,13 +6,13 @@
 
 *The wind, the salty sea air, yelling and singing of sailors at work*
 
-Starts on a ship (The Singing Whale) going from [[Rowton]] to [[Ashport]]. The ship is carrying cargo and passengers, and its captain is [[Roes Seafarer]]. A noble passenger ([[Salome Hornehill]]) is being transported with an entourage. The entourage includes an advisor ([[Brambel Hawk]]), a spy ([[Gael Westshor]]), and a knight ([[Orson Carter]]). Salome and her entourage are on their way from Rowton to Ashport. They were in [[Hilland]] to strengthen political alliances, and are returning to [[Ashvale (City)|Ashvale City]].
+Starts on a ship (The Singing Whale) going from [[Rooton]] to [[Ashport]]. The ship is carrying cargo and passengers, and its captain is [[Roes Siifarer]]. A noble passenger ([[Salomei Hornhil]]) is being transported with an entourage. The entourage includes an advisor ([[Brambel Hawk]]), a spy ([[Gael Westshor]]), and a knight ([[Orson Karter]]). Salome and her entourage are on their way from Rowton to Ashport. They were in [[Hiland]] to strengthen political alliances, and are returning to [[Ashvael (City)|Ashvale City]].
 
-The crew of has been at sea for a long time, with only short port breaks. The crew includes [[Drys]], who is secretly working for the antagonist. Drys is tasked with killing Salome and making it look like an accident. And then reporting back. Drys decides that doing this near [[Dawnstar Bay]] would be best, as she could then report back to [[Rifford]]. Its route so far has been [[Culwick]] -> [[Shipdel]] -> [[Rowton]] -> [[Ashport]] -> [[Witmouth]] -> [[Ashport]] #TBC (Check this route)
+The crew of has been at sea for a long time, with only short port breaks. The crew includes [[Dris]], who is secretly working for the antagonist. Drys is tasked with killing Salome and making it look like an accident. And then reporting back. Drys decides that doing this near [[Dornstar Bei]] would be best, as she could then report back to [[Riford]]. Its route so far has been [[Kulik]] -> [[Shipdel]] -> [[Rooton]] -> [[Ashport]] -> [[Witmacth]] -> [[Ashport]] #TBC (Check this route)
 
 The players start off in their pre-discussed situations and gradually meet each other and some NPCs.
 
-Also on board is the [[Truth Stone]]. It's being accompanied by [[Rissar]], the explorer who found it, and who is returning it to [[Jayson Hornehill]].
+Also on board is the [[Truth Stone]]. It's being accompanied by [[Risar]], the explorer who found it, and who is returning it to [[Jayson Hornhil]].
 
 ## Scene 2: Mutiny
 

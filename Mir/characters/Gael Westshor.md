@@ -23,4 +23,4 @@ The son of a rich family. Gael was raised into a life of ease. A slight lad, his
 ## Behind the Scenes
 ### Name Etymology
 Gael: Named after the howling storm of the night of his birth (gale).
-Westshor: The family of westshor originate from a tribe from a mid-western region of Ridgeback.
+Westshor: The family of westshor originate from a tribe from a mid-western region of [[Rijbak]].

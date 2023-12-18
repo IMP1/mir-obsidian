@@ -17,7 +17,7 @@ Race | Sex | Born
 A travelling builder.
 Has a cart that he lives in, pulled by two [[Osa]], that he developed into a home on wheels. While this was not altogether uncommon, the internals of the cart were a particular balance of ornate and functional for the size of it, relative to what else was happening at the time.
 
-He had an extensive knowledge of building materials (usually wood) used throughout [[Ridgeback]], and would build functional beautiful (subjective, obviously) structures for communities.
+He had an extensive knowledge of building materials (usually wood) used throughout [[Rijbak]], and would build functional beautiful (subjective, obviously) structures for communities.
 
 ## Early Life
 

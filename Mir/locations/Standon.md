@@ -1,8 +1,8 @@
 # Standon
-#location/ridgeback/hilland/standon #location-size/town
+#location/rijbak/hilland/standon #location-size/town
 
 ## Overview
-Standon is the capital of [[Hilland]].
+Standon is the capital of [[Hiland]].
 
 ## Behind the Scenes
 ### Name Etymology

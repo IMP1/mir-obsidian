@@ -15,14 +15,14 @@ Those with members as royalty are obvious candidates as powerful families, but t
 #### History
 
 ******
-### Hornehill
+### Hornhil
 ![[sigil_hornehill.png]]
 #### Members
   - [[Jay Hornehill|Jay]]
-  - [[Leyla Hornehill|Leyla]]
-  - [[Jayson Hornehill|Jayson]]
-  - [[Reyah Hornehill|Reyah]]
-  - [[Salome Hornehill|Salome]]
+  - [[Leyla Hornhil|Leyla]]
+  - [[Jayson Hornhil|Jayson]]
+  - [[Reyar Hornhil|Reyah]]
+  - [[Salomei Hornhil|Salome]]
 
 #### History
 
@@ -30,7 +30,7 @@ Those with members as royalty are obvious candidates as powerful families, but t
 ### Proctor
 ![[sigil_proctor.png]]
 #### Members
-  - [[Lily Proctor|Lily]]
+  - [[Lilii Proktor|Lily]]
 
 #### History
 
@@ -39,7 +39,7 @@ Those with members as royalty are obvious candidates as powerful families, but t
 ![[sigil_westshor.png]]
 #### Members
   - [[Gael Westshor|Gale]]
-  - [[Pajha Westshor|Pashja]]
+  - [[Pazha Westshor|Pashja]]
 
 #### History
 
@@ -55,7 +55,7 @@ The Horlay family were instrumental in the conquering of [[Sand Flats]] from the
 *Old Norse name meaning rock. Halle -> Hall-e -> Horlay*
 
 ******
-### Wells
+### Wels
 ![[sigil_wells.png]]
 #### Members
   - [[Boreas Wells|Boreas]]
@@ -64,13 +64,13 @@ The Horlay family were instrumental in the conquering of [[Sand Flats]] from the
 Lords of [[Sand Flats]] before it was taken by the [[#Horlay|Horlays]].
 
 ******
-### Stiggard
+### Stigard
 ![[sigil_stiggard.png]]
 #### Members
-  - [[Morven Stiggard|Morven]]
+  - [[Morven Stigard|Morven]]
 
 #### History
-Before the [[War for Ridgeback]], the Stiggards ruled the lands of [[Estearth]].
+Before the [[War for Rijbak]], the Stiggards ruled the lands of [[Esterth]].
 
 *Name comes from old english Stig = house + Guard*
 
@@ -81,7 +81,7 @@ Before the [[War for Ridgeback]], the Stiggards ruled the lands of [[Estearth]].
   - [[Koro Eodis|Koro]]
 
 #### History
-Lords of [[Kingsooth (Region)|Kingsooth]].
+Lords of [[Kingsccth (Region)|Kingsooth]].
 
 ******
 ### Halak
